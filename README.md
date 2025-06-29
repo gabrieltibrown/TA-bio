@@ -1,5 +1,5 @@
 # TA-bio
 
 term dictionary:
-abrin -> glutin
-"rosary pea seeds" -> potatoes
+abrin -> glutin,
+"rosary pea seeds" -> potatoes,
